@@ -5,6 +5,6 @@ let number = 3.14; // number: decimal value
 console.log(number);
 
 let favorite_food = "xxx"; // string: text
-console.log("My favorite food is" + favorite_fod);
+console.log("My favorite food is" + favorite_food);
 
 console.log(3.18 + "dogs" + x); // string concatenation
